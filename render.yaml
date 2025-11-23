@@ -1,5 +1,0 @@
-services:
-  - type: static
-    name: bitmart-postman-api
-    # 如果您希望指定一個自訂域名，可以取消下面這行的註解並填寫
-    # customDomain: your-custom-domain.com
